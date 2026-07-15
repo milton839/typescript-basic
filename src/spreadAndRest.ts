@@ -22,4 +22,4 @@ const allFriendsList = (...friends: string[]) => {
   friends.map((friend: string) => console.log(friend));
 };
 
-allFriendsList("Jhankar", "Rakib");
+allFriendsList("Jhankar", "Rakib", "Sakib", "Rasel", "Shuvo", "Azizul", "Milton");
